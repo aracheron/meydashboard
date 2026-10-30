@@ -1,0 +1,8 @@
+{
+  "name": "MEY SALES DASHBOARD — Sales Analytics & Receivables",
+  "description": "Responsive sales reporting, security product catalog, channel analytics, top buyer & product rankings, and customer receivables tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
